@@ -1,2 +1,2 @@
-# PR-OS
-Repository for the XB15-PR Operating System
+# ProtoPi
+Repository for the XB15-ProtoPi image
